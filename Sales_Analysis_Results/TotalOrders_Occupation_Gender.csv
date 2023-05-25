@@ -1,0 +1,31 @@
+Occupation,Gender,Total_Orders
+"IT Sector",F,2691
+Healthcare,F,2403
+Aviation,F,2302
+Banking,F,2032
+Govt,F,1507
+"IT Sector",M,1306
+Hospitality,F,1179
+Media,F,1069
+Healthcare,M,1052
+Retail,F,958
+Automobile,F,951
+Lawyer,F,928
+Chemical,F,923
+Aviation,M,913
+Banking,M,785
+"Food Processing",F,749
+Construction,F,731
+Govt,M,648
+Textile,F,604
+Hospitality,M,560
+Media,M,527
+Agriculture,F,521
+Automobile,M,420
+Lawyer,M,416
+Chemical,M,386
+"Food Processing",M,324
+Retail,M,312
+Construction,M,294
+Textile,M,289
+Agriculture,M,201

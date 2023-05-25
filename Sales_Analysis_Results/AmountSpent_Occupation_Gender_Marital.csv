@@ -1,0 +1,61 @@
+Occupation,Gender,Marital_Status,Amount_Spent
+Healthcare,F,0,6591759
+"IT Sector",F,0,5686538
+Aviation,F,0,5144662
+"IT Sector",F,1,4498297
+Banking,F,0,3944250
+Aviation,F,1,3862731
+Banking,F,1,3848046
+Govt,F,0,3470138
+Healthcare,M,0,2847048
+Retail,F,0,2810273
+Govt,F,1,2532769
+"IT Sector",M,0,2514291
+Media,F,0,2454538
+Healthcare,F,1,2376474
+Hospitality,F,0,2221479
+"IT Sector",M,1,2055953
+Chemical,F,0,1990377
+Automobile,F,0,1967606
+Aviation,M,0,1962778
+Hospitality,F,1,1961720
+Media,F,1,1920492
+Construction,F,0,1889990
+Automobile,F,1,1801237
+Lawyer,F,0,1730316
+Chemical,F,1,1674707
+Lawyer,F,1,1653093
+Aviation,M,1,1632127
+Banking,M,1,1530034
+"Food Processing",F,0,1528457
+Govt,M,0,1452007
+Banking,M,0,1448281
+Textile,F,0,1351158
+"Food Processing",F,1,1296820
+Healthcare,M,1,1219307
+Hospitality,M,1,1102890
+Hospitality,M,0,1090316
+Govt,M,1,1062298
+Agriculture,F,0,1005108
+Automobile,M,0,1004565
+Media,M,0,968758
+Media,M,1,952045
+Chemical,M,0,936077
+Retail,M,0,893940
+Lawyer,M,1,838887
+Agriculture,F,1,835374
+Textile,F,1,808594
+Retail,F,1,773422
+Lawyer,M,0,759369
+"Food Processing",M,0,736936
+Construction,F,1,705432
+Chemical,M,1,696275
+Construction,M,0,689260
+Textile,M,0,656903
+Automobile,M,1,595188
+"Food Processing",M,1,508457
+Textile,M,1,388317
+Agriculture,M,0,378209
+Agriculture,M,1,374396
+Construction,M,1,312829
+Retail,M,1,305535

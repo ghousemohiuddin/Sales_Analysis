@@ -1,0 +1,61 @@
+Occupation,Gender,Marital_Status,Total_Orders
+Healthcare,F,0,1733
+"IT Sector",F,0,1426
+Aviation,F,0,1269
+"IT Sector",F,1,1265
+Banking,F,0,1041
+Aviation,F,1,1033
+Banking,F,1,991
+Govt,F,0,857
+Healthcare,M,0,735
+Retail,F,0,732
+"IT Sector",M,0,728
+Healthcare,F,1,670
+Govt,F,1,650
+Hospitality,F,0,632
+Media,F,0,617
+"IT Sector",M,1,578
+Hospitality,F,1,547
+Automobile,F,0,520
+Construction,F,0,511
+Aviation,M,0,500
+Chemical,F,0,497
+Lawyer,F,0,482
+Media,F,1,452
+Lawyer,F,1,446
+Automobile,F,1,431
+Chemical,F,1,426
+Aviation,M,1,413
+Banking,M,1,407
+"Food Processing",F,0,405
+Textile,F,0,383
+Banking,M,0,378
+Govt,M,0,370
+"Food Processing",F,1,344
+Healthcare,M,1,317
+Agriculture,F,0,288
+Hospitality,M,0,284
+Govt,M,1,278
+Hospitality,M,1,276
+Media,M,0,276
+Automobile,M,0,256
+Media,M,1,251
+Retail,M,0,236
+Agriculture,F,1,233
+Chemical,M,0,233
+Retail,F,1,226
+Textile,F,1,221
+Construction,F,1,220
+Lawyer,M,1,214
+Construction,M,0,204
+Lawyer,M,0,202
+"Food Processing",M,0,184
+Textile,M,0,172
+Automobile,M,1,164
+Chemical,M,1,153
+"Food Processing",M,1,140
+Textile,M,1,117
+Agriculture,M,1,103
+Agriculture,M,0,98
+Construction,M,1,90
+Retail,M,1,76
