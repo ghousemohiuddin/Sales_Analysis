@@ -1,1 +1,1 @@
-# Sales_Analyss
+# Sales_EDA using MySQL
